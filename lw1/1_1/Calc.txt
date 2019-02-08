@@ -1,0 +1,4 @@
+N = 10      Debug        x86     15.349
+N = 10      Release      x86      0.034
+N = 10      Debug        x86     15.349
+N = 10      Debug        x86     15.349
