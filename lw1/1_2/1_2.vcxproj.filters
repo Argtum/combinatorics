@@ -23,11 +23,8 @@
     <ClCompile Include="pch.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="1_1.cpp">
+    <ClCompile Include="1_2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Calc.txt" />
   </ItemGroup>
 </Project>
