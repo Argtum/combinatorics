@@ -7,7 +7,7 @@
 
 int main()
 {
-	std::vector<size_t> v = { 7, 1, 12, 5, 9, 20, 15, 2, 6, 13 };
+	std::vector<size_t> v = { 7, 1, 12, 15, 5};
 	boost::timer t;
 
 	t.restart();
