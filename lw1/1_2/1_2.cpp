@@ -5,7 +5,7 @@
 #include <iterator>
 #include <vector>
 
-const int N = 4;
+const int N = 10;
 
 int main()
 {
@@ -25,8 +25,8 @@ int main()
 	t.restart();
 	while (m != 1)
 	{
-		copy(p.begin() + 1, p.end() - 1, std::ostream_iterator<size_t>(std::cout, " "));
-		std::cout << std::endl;
+		//copy(p.begin() + 1, p.end() - 1, std::ostream_iterator<size_t>(std::cout, " "));
+		//std::cout << std::endl;
 		m = N;
 
 		while (p[r[m] + d[m]] > m)
