@@ -1,0 +1,14 @@
+N = 10 K = 5     Debug        x86      0.484
+N = 10 K = 5     Release      x86	   0.001
+N = 10 K = 5     Debug        x64      0.517
+N = 10 K = 5     Release      x64      0
+
+N = 20 K = 5     Debug        x86     20.482
+N = 20 K = 5     Release      x86	   0.484
+N = 20 K = 5     Debug        x64     21.167
+N = 20 K = 5     Release      x64      0.517
+
+N = 50 K = 5     Debug        x86      
+N = 50 K = 5     Release      x86	   5.048
+N = 50 K = 5     Debug        x64      
+N = 50 K = 5     Release      x64      5.164
