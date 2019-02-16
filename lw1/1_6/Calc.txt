@@ -1,0 +1,9 @@
+N = 10      Debug        x86     0.005
+N = 10      Release      x86     0
+N = 10      Debug        x64     0.003
+N = 10      Release      x64     0
+
+N = 20      Debug        x86     3.111
+N = 20      Release      x86     0.004
+N = 20      Debug        x64     3.228
+N = 20      Release      x64     0.003
